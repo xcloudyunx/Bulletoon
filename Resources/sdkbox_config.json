@@ -1,0 +1,21 @@
+{
+    "android": {
+        "AdMob": {
+            "ads": {
+                "gameover": {
+                    "type": "interstitial", 
+                    "id": "ca-app-pub-1329537804990985/3667548083"
+                }
+            }
+        }, 
+        "iap": {
+            "items": {
+                "remove_ads": {
+                    "type": "non_consumable", 
+                    "id": "premium"
+                }
+            }, 
+            "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvRf0gDHIXfoYJgdxfOuPOz63dg16hWyPhucslfTcmxRla9AuOj28zL2bmgqXPxYVe6Q6/17BKXKEtAnwljCFRqS6eIzs/tfnSj0GDVBux1wlNLZM+a3nzGXYsYYqDh2lMGaplXJOAXtm9RdcHoKN4C9/aWGvBBbcXgzlX7ofCuGSkYQPxEw0hqZq/8bvuHoUbqIzfUXsXtNH5fWMa1r9qsU2PQoKHMoBEs22YUT3KDrFm4Vht1nkw67VMKVUCREJ+8kjz8e8mjOqdcLK06QkN8WxRGzUuoJloBYFHVLuZPZSBMFYXkeXZKWwX34U4Lkdsq5aTfNQNcBGdtuDslDPVwIDAQAB"
+        }
+    }
+}
